@@ -22,6 +22,7 @@
     "npmlog": "^1.2.0",
     "request": "^2.53.0",
     "websocket-stream": "^5.5.0"
+    "facebook-chat-api": "file:./facebook-chat-api"
   },
   "engines": {
     "node": ">=4.x"
